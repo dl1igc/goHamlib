@@ -1,3 +1,3 @@
-module github.com/dl1igc/goHamlib
+module github.com/xylo04/goHamlib
 
 go 1.14

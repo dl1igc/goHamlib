@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dl1igc/goHamlib"
+	"github.com/xylo04/goHamlib"
 )
 
 func getDummyRig() (*goHamlib.Rig, error) {
